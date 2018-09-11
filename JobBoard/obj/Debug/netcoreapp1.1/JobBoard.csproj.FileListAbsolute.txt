@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/JobBoard.Solution/JobBoard/bin/Debug/netcoreapp1.1/JobBoard.deps.json
+/Users/Guest/Desktop/JobBoard.Solution/JobBoard/bin/Debug/netcoreapp1.1/JobBoard.runtimeconfig.json
+/Users/Guest/Desktop/JobBoard.Solution/JobBoard/bin/Debug/netcoreapp1.1/JobBoard.runtimeconfig.dev.json
+/Users/Guest/Desktop/JobBoard.Solution/JobBoard/bin/Debug/netcoreapp1.1/JobBoard.dll
+/Users/Guest/Desktop/JobBoard.Solution/JobBoard/bin/Debug/netcoreapp1.1/JobBoard.pdb
+/Users/Guest/Desktop/JobBoard.Solution/JobBoard/obj/Debug/netcoreapp1.1/JobBoard.AssemblyInfo.cs
+/Users/Guest/Desktop/JobBoard.Solution/JobBoard/obj/Debug/netcoreapp1.1/JobBoard.dll
+/Users/Guest/Desktop/JobBoard.Solution/JobBoard/obj/Debug/netcoreapp1.1/JobBoard.pdb
