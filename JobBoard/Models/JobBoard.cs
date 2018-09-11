@@ -1,4 +1,5 @@
-using System.Collections.Generic
+using System.Collections.Generic;
+using System.Collections;
 
 namespace JobBoard.Models
 {
@@ -7,6 +8,7 @@ namespace JobBoard.Models
     private string _title;
     private string _description;
     private string _contactInfo;
+    private static List<JobOpening> _instances = new List<JobOpening> {};
 
     public JobOpening (string title, string description, string contactInfo)
     {
